@@ -1,5 +1,4 @@
 // Priority Queue
-// May 2, 2017
 
 #include <iostream>
 #include <string>
